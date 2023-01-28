@@ -1,0 +1,16 @@
+color
+red #FD511A
+bla #000000
+gre #21B573
+font family
+
+
+Poppins
+Weight
+400 700 500
+Roboto
+Weight
+400
+button section item fotter title 
+font family;font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
